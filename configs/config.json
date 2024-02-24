@@ -1,0 +1,10 @@
+{
+    "discordToken" : "enter your discord token here",
+    "webhooks" : [
+        { 
+            "groupName" : "enter your group name here", 
+            "url" : "enter your webhook url here"
+        }
+    ],
+    "hashSecret" : "enter your hash secret here"
+}
